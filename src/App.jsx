@@ -7,6 +7,7 @@ import Counter from './components/Counter'
 import Toggle from './components/Toggle'
 import StarRating from './components/StarRating'
 import Accordion from './components/Accordion'
+import Form from './components/Form'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Toggle/>
       <StarRating/>
       <Accordion/>
+      <Form/>
     </>
   )
 }
